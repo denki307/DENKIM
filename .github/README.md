@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/WCGKING/BrandrdXMusic && cd BrandrdXMusic
+   git clone https://github.com/denki307/DENKIM && cd DENKIM
    ```
 6. **Install Requirements**
    ```bash
